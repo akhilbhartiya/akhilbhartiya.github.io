@@ -1,10 +1,5 @@
----
-title: "My Likes"
----
+**Disclaimer :** My recommendation of a book or paper doesn't necessarily mean that I've read them completely.
 
-**Disclaimer :** My recommendation of a book or paper doesn't necessarily mean that I've read them completely; it's actually quite unlikely.
-
-## To Read
 ### Books
 * Measurement, Paul Lockhart
 * The Principles of Quantum Mechanics, P.A.M. Dirac
@@ -17,12 +12,3 @@ title: "My Likes"
 
 ### Research papers
 * [Entanglement isn’t just for spin, Daniel V. Schroeder](http://dx.doi.org/10.1119/1.5003808)
-* [What does it take to solve the measurement problem?, Jonte R. Hance, and Sabine Hossenfelder](https://arxiv.org/pdf/2206.10445.pdf)
-
-## To Watch
-### Movies
-* The Intern
-* The Terminal
-* Forrest Gump
-* Court
-* Masaan
