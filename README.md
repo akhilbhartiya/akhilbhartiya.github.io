@@ -23,9 +23,8 @@ A list of books and research papers I enjoyed reading.
 [Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
 
 ## Research
-[Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
-
-[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), [Akhil Bhartiya](https://orcid.org/0000-0001-8734-1606), and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
+### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
+[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), Akhil Bhartiya, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
 
 Phys. Rev. E 107, 024207 – Published 13 February 2023
 
