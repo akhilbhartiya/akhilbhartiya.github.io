@@ -2,6 +2,8 @@
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
 
+[Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
+
 ### Reading Suggestions
 A list of books and research papers I enjoyed reading.
 
@@ -20,7 +22,6 @@ A list of books and research papers I enjoyed reading.
 #### Research papers
 * [Entanglement isn’t just for spin, Daniel V. Schroeder](http://dx.doi.org/10.1119/1.5003808)
 
-[Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
 
 ## Research
 ### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
