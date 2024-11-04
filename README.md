@@ -5,9 +5,7 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 [Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
 
 ### Reading Suggestions
-A list of books and research papers I enjoyed reading.
-
-**Disclaimer :** My recommendation of a book or paper doesn't necessarily mean that I've read them completely.
+A list of books and research papers I enjoyed reading. Although it doesn't necessarily mean that I've read them completely.
 
 #### Books
 * Measurement, Paul Lockhart
