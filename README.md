@@ -24,7 +24,7 @@ A list of books and research papers I enjoyed reading.
 
 ## Research
 ### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
-[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), Akhil Bhartiya, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
+[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), **Akhil Bhartiya**, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
 
 Phys. Rev. E 107, 024207 – Published 13 February 2023
 
