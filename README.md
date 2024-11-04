@@ -8,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![profile](profile.jpg){: style="float: right"; margin-right: 10em; height="25%" width="25%"}
 
 
-[Email](mailto://akhil.bhartiya@jku.at) |
-[Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) |
-[LinkedIn](www.linkedin.com/in/bhartiya) |
+[Email](mailto://akhil.bhartiya@jku.at)  |
+[Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)  |
+[LinkedIn](www.linkedin.com/in/bhartiya)  |
 [Github](https://github.com/akhilbhartiya)
 
