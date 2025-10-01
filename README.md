@@ -4,7 +4,7 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 
 [Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
 
-<img src="images/profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
+<img src="profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
 
 ### Reading Suggestions
 A list of books and research papers I enjoyed reading. Although it doesn't necessarily mean that I've read them completely.
