@@ -6,22 +6,6 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 
 [Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
 
-### Reading Suggestions
-A list of books and research papers I enjoyed reading. Although it doesn't necessarily mean that I've read them completely.
-
-#### Books
-* Measurement, Paul Lockhart
-* The Principles of Quantum Mechanics, P.A.M. Dirac
-* The Theory of Heat Radiation, Max Planck
-* The Road to Reality, Roger Penrose
-* Surely You’re Joking, Mr. Feynman!, Richard Feynman.
-* Nonlinear dynamics and Chaos, Steven Strogatz
-* Lectures and Problems: A Gift to Young Mathematicians, V. I. Arnold
-
-#### Research papers
-* [Entanglement isn’t just for spin, Daniel V. Schroeder](http://dx.doi.org/10.1119/1.5003808)
-
-
 ## Research
 ### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
 [Arnab Acharya](https://orcid.org/0000-0002-4711-4262), **Akhil Bhartiya**, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
