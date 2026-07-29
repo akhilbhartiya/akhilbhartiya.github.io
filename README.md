@@ -1,3 +1,8 @@
+---
+layout: home
+title: Akhil Bhartiya
+---
+
 <img src="profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
