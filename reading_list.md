@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Reading List"
+permalink: /reading_list/
 ---
 A list of books and research papers I enjoyed reading. Although it doesn't necessarily mean that I've read them completely.
 
