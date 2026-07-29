@@ -1,4 +1,7 @@
-### Reading Suggestions
+---
+layout: post
+title: "Reading Suggestions"
+---
 A list of books and research papers I enjoyed reading. Although it doesn't necessarily mean that I've read them completely.
 
 #### Books
