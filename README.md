@@ -26,6 +26,6 @@ chaotic behavior, we observe the characteristic features of strange nonchaotic
 dynamics in the forced system.
 
 ## Recent Posts
-{% for post in site.posts %}
+{% for post in site._posts %}
 * **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %d, %Y" }}*
 {% endfor %}
