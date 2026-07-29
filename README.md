@@ -1,4 +1,7 @@
-# Akhil Bhartiya
+---
+layout: home
+title: Home
+---
 
 <img src="profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
 
