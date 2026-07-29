@@ -2,7 +2,13 @@
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
 
-[Email](mailto://akhil.bhartiya@jku.at) | [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/bhartiya) | [Github](https://github.com/akhilbhartiya)
+[Email](mailto://akhil.bhartiya@jku.at)
+
+[Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)
+
+[LinkedIn](https://www.linkedin.com/in/bhartiya)
+
+[Github](https://github.com/akhilbhartiya)
 
 ## Research
 ### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
