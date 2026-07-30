@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <img src="profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
@@ -26,6 +29,6 @@ chaotic behavior, we observe the characteristic features of strange nonchaotic
 dynamics in the forced system.
 
 ## Recent Posts
-{% for post in site._posts %}
+{% for post in site.posts %}
 * **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %d, %Y" }}*
 {% endfor %}
