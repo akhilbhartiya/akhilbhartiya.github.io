@@ -1,34 +1,38 @@
 ---
 layout: default
+title: Home
 ---
-<img src="profile.jpg" alt="Akhil Bhartiya" width="150" align="right" />
 
-Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
+<img src="profile.jpg" alt="Akhil Bhartiya" class="profile-img" />
 
-- [Email](mailto://akhil.bhartiya@jku.at)
-- [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/bhartiya)
-- [Github](https://github.com/akhilbhartiya)
+# Akhil Bhartiya
 
-## Publications
-### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
-[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), **Akhil Bhartiya**, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
+Ph.D. candidate studying quantum dynamics and nonchaotic systems under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
 
-Phys. Rev. E 107, 024207 – Published 13 February 2023
+<ul class="link-buttons">
+  <li><a href="mailto:akhil.bhartiya@jku.at">✉️ Email</a></li>
+  <li><a href="https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en">🎓 Google Scholar</a></li>
+  <li><a href="https://www.linkedin.com/in/bhartiya">💼 LinkedIn</a></li>
+  <li><a href="https://github.com/akhilbhartiya">🐙 GitHub</a></li>
+  <li><a href="https://orcid.org/0000-0001-8734-1606">🆔 ORCID</a></li>
+</ul>
 
-Can strange sets arise out of quantum dynamics? We explore this question using
-the quantum analog of a classical impact oscillator, which consists of a forced
-spring-mass-damper system, with a wall it may collide against. The classical
-impact oscillator is known to undergo a sudden transition to chaos when the
-mass grazes the wall. We numerically compute the evolution of the wave function
-in the equivalent quantum system and investigate the dynamical signatures. The
-entropy of the probability density and the 𝐿1 norm are used to generate
-real-valued time series, which are then subjected to diagnostic tests. Even
-though closed quantum systems with unitary evolution are incapable of showing
-chaotic behavior, we observe the characteristic features of strange nonchaotic
-dynamics in the forced system.
+---
 
-## Recent Posts
-{% for post in site.posts %}
+## 🔬 Publications
+
+<div class="pub-card">
+  <h3><a href="https://doi.org/10.1103/PhysRevE.107.024207">Signatures of strange nonchaotic dynamics in a forced quantum system</a></h3>
+  <div class="meta">
+    Arnab Acharya, <strong>Akhil Bhartiya</strong>, and Soumitro Banerjee — <em>Phys. Rev. E 107, 024207 (2023)</em>
+  </div>
+  <p>Numerical computation of wave function evolution in a forced quantum impact oscillator, investigating dynamical signatures and strange nonchaotic behavior.</p>
+</div>
+
+---
+
+## ✍️ Recent Posts
+
+{% for post in site.posts limit:5 %}
 * **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %d, %Y" }}*
 {% endfor %}
