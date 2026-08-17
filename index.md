@@ -11,20 +11,10 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 - [Github](https://github.com/akhilbhartiya)
 
 ## Publications
-### [Signatures of strange nonchaotic dynamics in a forced quantum system](https://doi.org/10.1103/PhysRevE.107.024207)
-[Arnab Acharya](https://orcid.org/0000-0002-4711-4262), **Akhil Bhartiya**, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
+* Signatures of strange nonchaotic dynamics in a forced quantum system
+    - [Arnab Acharya](https://orcid.org/0000-0002-4711-4262), **Akhil Bhartiya**, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
+    - [Phys. Rev. E 107, 024207](https://doi.org/10.1103/PhysRevE.107.024207) – Published on 13 February 2023
 
-Phys. Rev. E 107, 024207 – Published 13 February 2023
-
-Can strange sets arise out of quantum dynamics? We explore this question using
-the quantum analog of a classical impact oscillator, which consists of a forced
-spring-mass-damper system, with a wall it may collide against. The classical
-impact oscillator is known to undergo a sudden transition to chaos when the
-mass grazes the wall. We numerically compute the evolution of the wave function
-in the equivalent quantum system and investigate the dynamical signatures. The
-entropy of the probability density and the 𝐿1 norm are used to generate
-real-valued time series, which are then subjected to diagnostic tests. Even
-though closed quantum systems with unitary evolution are incapable of showing
-chaotic behavior, we observe the characteristic features of strange nonchaotic
-dynamics in the forced system.
-
+* Probing Non-equilibrium baths: Frequency-Resolved Thermometry and Quantum Heat Current Turnover
+    - **Akhil Bhartiya**, [Tobias Kramer](https://orcid.org/0000-0003-1106-3587), [David Gelbwaser-Klimovsky](https://orcid.org/0000-0003-3185-5936)
+    - [arXiv:2608.09461 \[quant-ph\]](https://doi.org/10.48550/arXiv.2608.09461) - Submitted on 10 Aug 2026
