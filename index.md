@@ -21,7 +21,7 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
     - Akhil Bhartiya, [Tobias Kramer](https://orcid.org/0000-0003-1106-3587), [David Gelbwaser-Klimovsky](https://orcid.org/0000-0003-3185-5936)
     - [arXiv:2608.09461 \[quant-ph\]](https://doi.org/10.48550/arXiv.2608.09461) - Submitted on 10 August 2026
 
-* Evaluation of approximate lineshape theories for photosynthetic light-harvesting antennae Available
+* Evaluation of approximate lineshape theories for photosynthetic light-harvesting antennae
     - [Piermarco Saraceno](https://orcid.org/0009-0001-2135-5930), Akhil Bhartiya, [Joachim Seibt](https://orcid.org/0000-0001-5162-8883), [Thomas Renger](https://orcid.org/0000-0001-9245-3805), [Tobias Kramer](https://orcid.org/0000-0003-1106-3587), [Lorenzo Cupellini](https://orcid.org/0000-0003-0848-2908)
     - [J. Chem. Phys. 164, 044119 (2026)](https://doi.org/10.1063/5.0310361) - Published on 26 January 2026
 
