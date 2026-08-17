@@ -5,9 +5,7 @@ layout: default
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
 
-- [ORCiD](https://orcid.org/0000-0001-8734-1606)
 - [Email](mailto://akhil.bhartiya@jku.at)
-- [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/bhartiya)
 - [Github](https://github.com/akhilbhartiya)
 
@@ -17,6 +15,8 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 {% endfor %}
 
 ## Works
+List of all my works can be found at my [ORCiD](https://orcid.org/0000-0001-8734-1606) or [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)
+
 * Probing Non-equilibrium baths: Frequency-Resolved Thermometry and Quantum Heat Current Turnover
     - Akhil Bhartiya, [Tobias Kramer](https://orcid.org/0000-0003-1106-3587), [David Gelbwaser-Klimovsky](https://orcid.org/0000-0003-3185-5936)
     - [arXiv:2608.09461 \[quant-ph\]](https://doi.org/10.48550/arXiv.2608.09461) - Submitted on 10 August 2026
