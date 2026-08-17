@@ -5,6 +5,7 @@ layout: default
 
 Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobserver.wordpress.com/) at the [Institute for Theoretical Physics](https://www.jku.at/en/institute-for-theoretical-physics/), Linz.
 
+- [ORCiD](https://orcid.org/0000-0001-8734-1606)
 - [Email](mailto://akhil.bhartiya@jku.at)
 - [Google Scholar](https://scholar.google.com/citations?user=ZS47oC0AAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/bhartiya)
