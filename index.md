@@ -11,6 +11,11 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 - [LinkedIn](https://www.linkedin.com/in/bhartiya)
 - [Github](https://github.com/akhilbhartiya)
 
+## Posts
+{% for post in site.posts %}
+* **[{{ post.title }}]({{ post.url }})** — *{{ post.date | date: "%B %d, %Y" }}*
+{% endfor %}
+
 ## Works
 * Probing Non-equilibrium baths: Frequency-Resolved Thermometry and Quantum Heat Current Turnover
     - Akhil Bhartiya, [Tobias Kramer](https://orcid.org/0000-0003-1106-3587), [David Gelbwaser-Klimovsky](https://orcid.org/0000-0003-3185-5936)
@@ -23,3 +28,4 @@ Hii there, I am a Ph.D. student under [Prof. Tobias Kramer](https://quantumobser
 * Signatures of strange nonchaotic dynamics in a forced quantum system
     - [Arnab Acharya](https://orcid.org/0000-0002-4711-4262), Akhil Bhartiya, and [Soumitro Banerjee](https://orcid.org/0000-0003-3576-0846)
     - [Phys. Rev. E 107, 024207](https://doi.org/10.1103/PhysRevE.107.024207) – Published on 13 February 2023
+
