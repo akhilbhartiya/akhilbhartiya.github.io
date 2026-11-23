@@ -1,2 +1,6 @@
 Gemfile*
 _site/
+
+# Obsidian: app and plugin settings (can hold tokens) and trash
+.obsidian/
+.trash/
