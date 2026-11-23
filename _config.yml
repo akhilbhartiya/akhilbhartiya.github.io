@@ -1,4 +1,9 @@
 title: Akhil Bhartiya
 author: Akhil Bhartiya
 description: Thoughts on science, technology and life.
+url: "https://akhilbhartiya.github.io"
 theme: minima
+
+# Repo notes and plan, not site pages
+exclude:
+  - CLAUDE.md
