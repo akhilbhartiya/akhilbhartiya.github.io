@@ -5,11 +5,12 @@ Personal academic website, built with Jekyll on GitHub Pages using the
 
 This file is the shared instructions for **every** AI agent working on this
 repo (Claude Code, Google Antigravity, Gemini CLI, Codex, Cursor, Copilot and
-others). Tool-specific files such as `CLAUDE.md` only point here, so keep all
-rules, conventions and the plan in this file and nowhere else.
+others). Keep all rules, conventions and the plan in this file and nowhere
+else. Do not add tool-specific copies such as `CLAUDE.md` or `GEMINI.md`;
+Claude Code and Antigravity read this file directly.
 
 ## Layout
-- `AGENTS.md`: this file. `CLAUDE.md` imports it.
+- `AGENTS.md`: this file.
 - `_config.yml`: site settings (title, author, url, theme) and the `exclude`
   list that keeps agent files off the site.
 - `index.md`: home page, with the intro, profile links and the list of posts.
@@ -106,4 +107,4 @@ Done:
 - [x] Responsive profile photo, add site `url` (PR #2).
 - [x] Security-check rule; Works on its own page; ORCID/Scholar in profile links;
   `_drafts/` for Obsidian notes (PR #3).
-- [x] Shared `AGENTS.md` instructions for all agents; `CLAUDE.md` imports it (PR #4).
+- [x] Shared `AGENTS.md` instructions for all agents, with no tool-specific copies (PR #4).

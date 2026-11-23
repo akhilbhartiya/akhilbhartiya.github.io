@@ -4,7 +4,8 @@ description: Thoughts on science, technology and life.
 url: "https://akhilbhartiya.github.io"
 theme: minima
 
-# Agent instruction files, not site pages
+# Agent instruction files, never site pages (CLAUDE.md and GEMINI.md are
+# listed as a safety net in case a tool creates one)
 exclude:
   - AGENTS.md
   - CLAUDE.md
