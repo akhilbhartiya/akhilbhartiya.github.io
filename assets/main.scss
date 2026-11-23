@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+// Profile photo: floats right beside the intro on wide screens,
+// sits centred above it on phones.
+.profile-photo {
+  float: right;
+  width: 150px;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}
