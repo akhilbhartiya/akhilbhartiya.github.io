@@ -3,8 +3,16 @@
 Personal academic website, built with Jekyll on GitHub Pages using the
 `minima` theme. GitHub Pages builds from `main` automatically.
 
+This file is the shared instructions for **every** AI agent working on this
+repo (Claude Code, Google Antigravity, Gemini CLI, Codex, Cursor, Copilot and
+others). Keep all rules, conventions and the plan in this file and nowhere
+else. Do not add tool-specific copies such as `CLAUDE.md` or `GEMINI.md`;
+Claude Code and Antigravity read this file directly.
+
 ## Layout
-- `_config.yml`: site settings (title, author, url, theme).
+- `AGENTS.md`: this file.
+- `_config.yml`: site settings (title, author, url, theme) and the `exclude`
+  list that keeps agent files off the site.
 - `index.md`: home page, with the intro, profile links and the list of posts.
 - `works.md`: list of papers at `/works/`, shown in the header menu.
 - `_posts/`: published posts, named `YYYY-MM-DD-title.md`.
@@ -13,6 +21,43 @@ Personal academic website, built with Jekyll on GitHub Pages using the
 - `assets/main.scss`: imports minima and holds our custom styles.
 - `assets/images/`: images used in posts.
 - `profile.jpg`: profile photo, kept at about 300 px wide with metadata stripped.
+
+## Working with several agents
+- Start every task from the latest `main`, on a new branch named
+  `<agent>/<short-topic>`, for example `antigravity/new-post` or
+  `claude/works-update`. Never commit directly to `main`.
+- Never push to another agent's open branch. If two tasks touch the same file,
+  finish and merge one PR before starting the other.
+- Keep each PR small and focused on one task.
+- **The Plan section below is our shared memory.** When you finish, postpone
+  or add a task, update the Plan in the same PR.
+- In the PR description, say which agent made the change.
+
+## Building locally
+GitHub Pages builds the site itself, so the repo has no `Gemfile` (it is
+gitignored on purpose; do not commit one). To check a change, build with a
+Gemfile kept **outside** the repo:
+
+```ruby
+# /some/temp/dir/Gemfile
+source "https://rubygems.org"
+gem "jekyll", "~> 3.10"
+gem "minima", "2.5.1"
+gem "kramdown-parser-gfm"
+gem "webrick"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+```
+
+```bash
+cd /some/temp/dir
+bundle install
+bundle exec jekyll build -s /path/to/repo -d /some/temp/dir/site
+```
+
+Check the pages at both desktop and phone widths before opening a PR.
 
 ## Conventions
 - Works entries: the title, then the author list (Akhil Bhartiya unlinked and
@@ -62,3 +107,4 @@ Done:
 - [x] Responsive profile photo, add site `url` (PR #2).
 - [x] Security-check rule; Works on its own page; ORCID/Scholar in profile links;
   `_drafts/` for Obsidian notes (PR #3).
+- [x] Shared `AGENTS.md` instructions for all agents, with no tool-specific copies (PR #4).

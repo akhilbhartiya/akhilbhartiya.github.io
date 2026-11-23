@@ -4,3 +4,6 @@ _site/
 # Obsidian: app and plugin settings (can hold tokens) and trash
 .obsidian/
 .trash/
+
+# Personal, machine-local agent settings (shared rules live in AGENTS.md)
+.claude/settings.local.json
